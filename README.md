@@ -46,7 +46,5 @@ Real-time IoT integration, advanced ML models, cloud deployment, and access cont
 📌 Use Cases
 Food storage monitoring, supply chain quality control, smart warehouses, and AIoT research.
 
+****NOTE:** THE PROJECT IS ON ANOTHER BRANCH (Branch: Master)**
 
-Storage of results
-
-Dashboard visualization
