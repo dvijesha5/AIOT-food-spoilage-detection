@@ -6,7 +6,7 @@ An AIoT-enabled Machine Learning system to predict food spoilage using environme
 
 Language: Python
 ML: Scikit-learn, Pandas, NumPy
-Visualization: Matplotlib, Seaborn, Power BI
+Visualization: Power BI
 Backend: Flask
 Database: MongoDB
 Tools: Git, GitHub, Kaggle
